@@ -80,17 +80,6 @@
           "category": "business"
         },
         {
-          "id": "5",
-          "image": "https://expansivedesigns.com/tech-taley-portfolio/static/images/trivia quiz.jpg",
-          "title": "Trivia Quiz",
-          "desc": "React SPA | Hooks, Express Server, and TypeScript",
-          "link": "https://github.com/techtaley/react-trivia/",
-          "code": "https://github.com/Techtaley/react-trivia.git",
-          "api": "#",
-          "status": "Ongoing",
-          "category": "game"
-        },
-        {
           "id": "6",
           "image": "https://images.pexels.com/photos/2349209/pexels-photo-2349209.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
           "alt": "Full stack Mern Deployment",
