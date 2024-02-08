@@ -1,0 +1,295 @@
+{
+    "results": {
+      "id": 0,
+      "menus": [
+        {
+          "intro": "intro",
+          "skills": "skills",
+          "projects": "projects", 
+          "contact": "contact"
+        }
+      ],
+      "banner": [
+        {
+          "image": "https://expansivedesigns.com/tech-taley-portfolio/static/images/2Updated-profile-photo-2023.png",
+          "image2": "https://images.pexels.com/photos/3762927/pexels-photo-3762927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "alt": "Web Portfolio",
+          "title": "I'm Taley",
+          "role": "Full stack web developer",
+          "desc": "10+ years experience",
+          "link": "https://www.techtaleyportfolio/#projects"
+        }
+      ],
+      "projects": [
+        {
+          "id": "0",
+          "image": "https://expansivedesigns.com/tech-taley-portfolio/static/images/bug-tracker-thumbnail.jpg",
+          "title": "Bug Tracker Login Logout",
+          "desc": "Redux Toolkit | Slices, Thunk, Hooks, API Services",
+          "link": "https://github.com/techtaley//bug-tracker",
+          "code": "https://github.com/Techtaley/bug-tracker.git",
+          "api": "#",
+          "status": "Initial",
+          "category": "business"
+        },
+        {
+          "id": "1",
+          "image": "https://expansivedesigns.com/tech-taley-portfolio/static/images/search-crud-app.jpg",
+          "alt": "Search Blog App using CRUD operations",
+          "title": "Search CRUD App",
+          "desc": "Redux ToolKit | Lazy Loader, Split Code, Outlet, Load Spinner, Proxy",
+          "link": "https://github.com/techtaley/search-app/",
+          "code": "https://github.com/techtaley/search-app",
+          "api": "https://github.com/techtaley/search-app",
+          "status": "Ongoing",
+          "category": "blog"
+        },
+        {
+          "id": "2",
+          "image": "https://images.pexels.com/photos/3762927/pexels-photo-3762927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "alt": "FE React Deployment",
+          "title": "Tech Taley Portfolio",
+          "desc": "React App | REST API deployed to GitHub Pages",
+          "link": "https://tech-taley-portfolio.com",
+          "code": "https://github.com/techtaley/tech-taley-portfolio",
+          "api": "https://techtaley.github.io/tech-taley-api/data.json",
+          "status": "Completed",
+          "category": "business"
+        },
+        {
+          "id": "3",
+          "image": "https://images.pexels.com/photos/390089/film-movie-motion-picture-390089.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+          "alt": "Movie Search App",
+          "title": "Movie Search",
+          "desc": "React App | external REST API",
+          "link": "https://github.com/techtaley/movie_search/",
+          "code": "https://github.com/techtaley/movie_search",
+          "api": "https://github.com/techtaley/movie_search",
+          "status": "Completed",
+          "category": "search"
+        },
+        {
+          "id": "4",
+          "image": "https://expansivedesigns.com/tech-taley-portfolio/static/images/befound_home.jpg",
+          "title": "Be Found",
+          "desc": "React App | REST API deployment in progress",
+          "link": "https://github.com/techtaley/befound",
+          "code": "https://github.com/techtaley/befound",
+          "api": "https://github.com/techtaley/befound",
+          "status": "Still in progress",
+          "category": "business"
+        },
+        {
+          "id": "5",
+          "image": "https://expansivedesigns.com/tech-taley-portfolio/static/images/trivia quiz.jpg",
+          "title": "Trivia Quiz",
+          "desc": "React SPA | Hooks, Express Server, and TypeScript",
+          "link": "https://github.com/techtaley//react-trivia/",
+          "code": "https://github.com/Techtaley/react-trivia.git",
+          "api": "#",
+          "status": "Ongoing",
+          "category": "game"
+        },
+        {
+          "id": "6",
+          "image": "https://images.pexels.com/photos/2349209/pexels-photo-2349209.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+          "alt": "Full stack Mern Deployment",
+          "title": "Blog",
+          "desc": "Deployed App & API to Render, and images to AWS3 using Multer3",
+          "link": "https://exdblog.onrender.com/",
+          "code": "https://github.com/techtaley/exdblog",
+          "api": "https://exdblog.onrender.com/api/posts",
+          "status": "Upload images to AWS3 as requested",
+          "category": "blog"
+        }
+      ],
+      "skills": [
+        {
+          "id": "0",
+          "heading": "Structure | Components | Design | Development",
+          "icons": [
+            {
+              "id": 0,
+              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg",
+              "title": "ReactJS"
+            },
+            {
+              "id": 1,
+              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg",
+              "title": "HTML5"
+            },
+            {
+              "id": 2,
+              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg",
+              "title": "CSS3"
+            },
+            {
+              "id": 3,
+              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg",
+              "title": "SASS"
+            },
+            {
+              "id": 4,
+              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+              "title": "ES6"
+            },
+            {
+              "id": 5,
+              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+              "title": "TypeScript"
+            },
+            {
+              "id": 6,
+              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg",
+              "title": "Visual Studio Code"
+            },
+            {
+              "id": 7,
+              "url": "https://expansivedesigns.com/tech-taley-portfolio/static/images/lodash.svg",
+              "title": "LoDash"
+            }
+          ]
+        },
+        {
+          "id": "1",
+          "heading": "APIs | DBs | Frameworks | State Management",
+          "icons": [
+            {
+              "id": 0,
+              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg",
+              "title": "Redux"
+            },
+            {
+              "id": 1,
+              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg",
+              "title": "MongoDB"
+            },
+            {
+              "id": 2,
+              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg",
+              "title": "ExpressJs"
+            },
+            {
+              "id": 3,
+              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg",
+              "title": "NodeJs"
+            },
+            {
+              "id": 4,
+              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg",
+              "title": "Firebase"
+            },
+            {
+              "id": 5,
+              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg",
+              "title": "GraphQL"
+            },
+            {
+              "id": 6,
+              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
+              "title": "AWS S3"
+            },
+            {
+              "id": 7,
+              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+              "title": "AWS S3"
+            },
+            {
+              "id": 8,
+              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg",
+              "title": "php"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "heading": "CI/CD | Testing | Automation",
+          "icons": [
+            {
+              "id": 0,
+              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg",
+              "title": "gitHub"
+            },
+            {
+              "id": 1,
+              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg",
+              "title": "Jest"
+            },
+            {
+              "id": 2,
+              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg",
+              "title": "Jenkins"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "heading": "Deployment",
+          "icons": [
+            {
+              "id": 0,
+              "url": "https://expansivedesigns.com/tech-taley-portfolio/static/images/octocat.png",
+              "title": "gitHub Pages"
+            },
+            {
+              "id": 1,
+              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg",
+              "title": "Heroku"
+            },
+            {
+              "id": 2,
+              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg",
+              "title": "Docker"
+            }
+          ]
+        }
+      ],
+      "skills_outdated": [
+        {
+          "id": "0",
+          "title": "MongoDB, ExpressJS, React, NodeJS",
+          "desc": "Full Stack Web Apps with engaging FE and BE web services"
+        },
+        {
+          "id": "1",
+          "title": "Web API Services, API calls, CRUD Operations",
+          "desc": "Handle communications between front and backend."
+        },
+        {
+          "id": "2",
+          "title": "Error Handling using Try/Catch",
+          "desc": "Prevent validation issues, password hashing."
+        },
+        {
+          "id": "3",
+          "title": "Asynchronous JavaScript using Async/Await",
+          "desc": "Executes code inline code while delivering a promise."
+        },
+        {
+          "id": "4",
+          "title": "Javascript (ES6), JQuery, TypeScript",
+          "desc": "Basic Frontend Programming and JS extentions and frameworks."
+        },
+        {
+          "id": "5",
+          "title": "websites",
+          "skills": "HTML5, CSS3, FlexBox, TypeScript, SASS "
+        }
+      ],
+      "footer1": [
+        {
+          "image": "https://expansivedesigns.com/tech-taley-portfolio/static/images/tech-taley-port.png",
+          "alt": "Footer logo for portfolio",
+          "title": "Tech Taley",
+          "social": [
+            {
+              "link1": "https://www.facebook.com/expansivedesigns/?ref=hl",
+              "link2": "https://www.instagram.com/expansivedesigns/",
+              "link3": "https://twitter.com/expansivedesign",
+              "link4": "YouTube Channel - T3 - Taily Talks Tech"
+            }
+          ]
+        }
+      ]
+    }
+  }
