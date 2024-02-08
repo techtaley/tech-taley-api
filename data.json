@@ -5,7 +5,7 @@
         {
           "intro": "intro",
           "skills": "skills",
-          "projects": "projects", 
+          "projects": "projects",  
           "contact": "contact"
         }
       ],
@@ -26,7 +26,7 @@
           "image": "https://expansivedesigns.com/tech-taley-portfolio/static/images/bug-tracker-thumbnail.jpg",
           "title": "Bug Tracker Login Logout",
           "desc": "Redux Toolkit | Slices, Thunk, Hooks, API Services",
-          "link": "https://github.com/techtaley//bug-tracker",
+          "link": "https://github.com/techtaley/bug-tracker",
           "code": "https://github.com/Techtaley/bug-tracker.git",
           "api": "#",
           "status": "Initial",
@@ -84,7 +84,7 @@
           "image": "https://expansivedesigns.com/tech-taley-portfolio/static/images/trivia quiz.jpg",
           "title": "Trivia Quiz",
           "desc": "React SPA | Hooks, Express Server, and TypeScript",
-          "link": "https://github.com/techtaley//react-trivia/",
+          "link": "https://github.com/techtaley/react-trivia/",
           "code": "https://github.com/Techtaley/react-trivia.git",
           "api": "#",
           "status": "Ongoing",
