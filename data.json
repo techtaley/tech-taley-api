@@ -38,9 +38,9 @@
           "image": "https://techtaleyportfolio.com/assets/my-strapi-shop.jpg",
           "alt": "React Full Stack Application Headless CMS",
           "title": "My Strapi Shop using ReactJS and Strapi",
-          "desc": "ReactJS Redux Toolkit StrAPI CMS deploys to Heroku, Netlify, Render, VPS",
-          "link": "https://tech-taley-portfolio.com",
-          "code": "https://github.com/techtaley/tech-taley-portfolio",
+          "desc": "ReactJS Redux Toolkit StrAPI CMS deploys to VPS",
+          "link": "https://techtaleyportfolio.com",
+          "code": "https://github.com/techtaley/my-strapi-shop",
           "api": "https://techtaley.github.io/tech-taley-api/data.json",
           "status": "Completed",
           "category": "business"
