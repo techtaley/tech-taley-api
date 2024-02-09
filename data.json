@@ -23,6 +23,42 @@
       "projects": [
         {
           "id": "0",
+          "image": "https://techtaleyportfolio.com/assets/expansivedesigns-homepage.jpg",
+          "alt": "React Full Stack Application Headless CMS",
+          "title": "Expansive Designs Full Stack Application",
+          "desc": "ReactJS Redux Toolkit StrAPI CMS deploys shared hosting",
+          "link": "https://expansivedesigns.com",
+          "code": "#",
+          "api": "#",
+          "status": "Completed",
+          "category": "business"
+        },
+        {
+          "id": "1",
+          "image": "https://techtaleyportfolio.com/assets/my-strapi-shop.jpg",
+          "alt": "React Full Stack Application Headless CMS",
+          "title": "My Strapi Shop using ReactJS and Strapi",
+          "desc": "ReactJS Redux Toolkit StrAPI CMS deploys to Heroku, Netlify, Render, VPS",
+          "link": "https://tech-taley-portfolio.com",
+          "code": "https://github.com/techtaley/tech-taley-portfolio",
+          "api": "https://techtaley.github.io/tech-taley-api/data.json",
+          "status": "Completed",
+          "category": "business"
+        }, 
+        {
+          "id": "2",
+          "image": "https://techtaleyportfolio.com/assets/sourcecoderhub.jpg",
+          "alt": "React Full Stack Application Headless CMS",
+          "title": "Sourcecoderhub React Full Stack Headless StrAPI CMS",
+          "desc": "ReactJS Redux Toolkit StrAPI CMS deployed FE to shared hosting",
+          "link": "https://techtaleyportfolio.com",
+          "code": "https://github.com/techtaley/tech-taley-portfolio",
+          "api": "https://techtaley.github.io/tech-taley-api/data.json",
+          "status": "Completed",
+          "category": "business"
+        },                                 
+        {
+          "id": "3",
           "image": "https://expansivedesigns.com/tech-taley-portfolio/static/images/bug-tracker-thumbnail.jpg",
           "title": "Bug Tracker Login Logout",
           "desc": "Redux Toolkit | Slices, Thunk, Hooks, API Services",
@@ -33,7 +69,7 @@
           "category": "business"
         },
         {
-          "id": "1",
+          "id": "4",
           "image": "https://expansivedesigns.com/tech-taley-portfolio/static/images/search-crud-app.jpg",
           "alt": "Search Blog App using CRUD operations",
           "title": "Search CRUD App",
@@ -45,7 +81,7 @@
           "category": "blog"
         },
         {
-          "id": "2",
+          "id": "5",
           "image": "https://images.pexels.com/photos/3762927/pexels-photo-3762927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
           "alt": "FE React Deployment",
           "title": "Tech Taley Portfolio",
@@ -57,7 +93,7 @@
           "category": "business"
         },
         {
-          "id": "3",
+          "id": "6",
           "image": "https://images.pexels.com/photos/390089/film-movie-motion-picture-390089.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
           "alt": "Movie Search App",
           "title": "Movie Search",
@@ -69,7 +105,7 @@
           "category": "search"
         },
         {
-          "id": "4",
+          "id": "7",
           "image": "https://expansivedesigns.com/tech-taley-portfolio/static/images/befound_home.jpg",
           "title": "Be Found",
           "desc": "React App | REST API deployment in progress",
@@ -80,7 +116,7 @@
           "category": "business"
         },
         {
-          "id": "6",
+          "id": "8",
           "image": "https://images.pexels.com/photos/2349209/pexels-photo-2349209.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
           "alt": "Full stack Mern Deployment",
           "title": "Blog",
