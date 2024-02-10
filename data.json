@@ -47,13 +47,13 @@
         }, 
         {
           "id": "2",
-          "image": "https://techtaleyportfolio.com/assets/sourcecoderhub.jpg",
+          "image": "https://not-for-profit.techtaleyportfolio.com/assets/not-for-profit.jpg",
           "alt": "React Full Stack Application Headless CMS",
-          "title": "Sourcecoderhub React Full Stack Headless StrAPI CMS",
+          "title": "Not-For-Profit React Full Stack Headless StrAPI CMS",
           "desc": "ReactJS Redux Toolkit StrAPI CMS deployed FE to shared hosting",
-          "link": "https://techtaleyportfolio.com",
-          "code": "https://github.com/techtaley/tech-taley-portfolio",
-          "api": "https://techtaley.github.io/tech-taley-api/data.json",
+          "link": "https://not-for-profit.techtaleyportfolio.com/",
+          "code": "https://github.com/techtaley/nfp-starter",
+          "api": "#",
           "status": "Completed",
           "category": "business"
         },                                 
