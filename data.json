@@ -47,7 +47,7 @@
         }, 
         {
           "id": "2",
-          "image": "https://not-for-profit.techtaleyportfolio.com/assets/not-for-profit.jpg",
+          "image": "https://techtaleyportfolio.com/assets/not-for-profit.jpg",
           "alt": "React Full Stack Application Headless CMS",
           "title": "Not-For-Profit React Full Stack Headless StrAPI CMS",
           "desc": "ReactJS Redux Toolkit StrAPI CMS deployed FE to shared hosting",
