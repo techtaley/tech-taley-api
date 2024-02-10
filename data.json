@@ -41,7 +41,7 @@
           "desc": "ReactJS, Vite, FlexBox, Redux Toolkit, StrAPI CMS, Stripe",
           "link": "https://techtaleyportfolio.com",
           "code": "https://github.com/techtaley/my-strapi-shop",
-          "api": "https://techtaley.github.io/tech-taley-api/data.json",
+          "api": "https://github.com/techtaley/my-strapi-shop-api",
           "status": "Completed",
           "category": "business"
         }, 
