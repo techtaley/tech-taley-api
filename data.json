@@ -35,7 +35,7 @@
         },
         {
           "id": "1",
-          "image": "https://my-strapi-shop.techtaleyportfolio.com/assets/my-strapi-shop.jpg",
+          "image": "https://techtaleyportfolio.com/assets/my-strapi-shop.jpg",
           "alt": "React Full Stack Application Headless CMS",
           "title": "My Strapi Shop using ReactJS and Strapi",
           "desc": "ReactJS, Vite, FlexBox, Redux Toolkit, StrAPI CMS, Stripe",
