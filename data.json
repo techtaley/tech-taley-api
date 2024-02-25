@@ -41,8 +41,8 @@
           "desc": "ReactJS, Vite, FlexBox, Redux Toolkit, StrAPI CMS, Stripe",
           "link": "https://my-strapi-shop.techtaleyportfolio.com",
           "code": "https://github.com/techtaley/my-strapi-shop",
-          "api": "https://github.com/techtaley/my-strapi-shop-api",
-          "status": "Completed",
+          "api": "https://my-shop-api.techtaleyportfolio.com/api/products?populate=*",
+          "status": "Ongoing",
           "category": "business"
         }, 
         {
@@ -54,7 +54,7 @@
           "link": "https://not-for-profit.techtaleyportfolio.com/",
           "code": "https://github.com/techtaley/nfp-starter",
           "api": "#",
-          "status": "Completed",
+          "status": "Ongoing",
           "category": "business"
         },                                 
         {
@@ -65,7 +65,7 @@
           "link": "https://github.com/techtaley/bug-tracker",
           "code": "https://github.com/Techtaley/bug-tracker.git",
           "api": "#",
-          "status": "Initial",
+          "status": "Ongoing",
           "category": "business"
         },
         {
