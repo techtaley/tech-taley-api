@@ -31,19 +31,19 @@
           "code": "#",
           "api": "#",
           "status": "Completed",
-          "category": "business"
+          "category": "filter"
         },
         {
           "id": "1",
           "image": "https://techtaleyportfolio.com/assets/my-strapi-shop.jpg",
           "alt": "React Full Stack Application Headless CMS",
-          "title": "My Strapi Shop using ReactJS and Strapi",
+          "title": "eCommerce React Full Stack Headless StrAPI CMS",
           "desc": "ReactJS, Vite, FlexBox, Redux Toolkit, StrAPI CMS, Stripe",
           "link": "https://my-strapi-shop.techtaleyportfolio.com",
           "code": "https://github.com/techtaley/my-strapi-shop",
           "api": "https://my-shop-api.techtaleyportfolio.com/api/products?populate=*",
           "status": "Ongoing",
-          "category": "business"
+          "category": "filter"
         }, 
         {
           "id": "2",
@@ -55,7 +55,7 @@
           "code": "https://github.com/techtaley/nfp-starter",
           "api": "#",
           "status": "Ongoing",
-          "category": "business"
+          "category": "filter"
         },                                 
         {
           "id": "3",
@@ -66,7 +66,7 @@
           "code": "https://github.com/Techtaley/bug-tracker.git",
           "api": "#",
           "status": "Ongoing",
-          "category": "business"
+          "category": "search"
         },
         {
           "id": "4",
@@ -78,7 +78,7 @@
           "code": "https://github.com/techtaley/search-app",
           "api": "https://github.com/techtaley/search-app",
           "status": "Ongoing",
-          "category": "blog"
+          "category": "search"
         },
         {
           "id": "5",
@@ -90,8 +90,8 @@
           "code": "https://github.com/techtaley/tech-taley-portfolio",
           "api": "https://techtaley.github.io/tech-taley-api/data.json",
           "status": "Completed",
-          "category": "business"
-        }
+          "category": "filter"
+        }        
       ],
       "skills": [
         {
