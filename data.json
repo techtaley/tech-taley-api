@@ -62,7 +62,7 @@
           "image": "https://expansivedesigns.com/tech-taley-portfolio/static/images/bug-tracker-thumbnail.jpg",
           "title": "Bug Tracker Login Logout",
           "desc": "Redux Toolkit | Slices, Thunk, Hooks, API Services",
-          "link": "https://github.com/techtaley/bug-tracker",
+          "link": "https://bug-tracker.techtaleyportfolio.com/bug-tracker",
           "code": "https://github.com/Techtaley/bug-tracker.git",
           "api": "#",
           "status": "Ongoing",
@@ -74,7 +74,7 @@
           "alt": "Search Blog App using CRUD operations",
           "title": "Search CRUD App",
           "desc": "Redux ToolKit | Lazy Loader, Split Code, Outlet, Load Spinner, Proxy",
-          "link": "https://github.com/techtaley/search-app/",
+          "link": "https://search-app.techtaleyportfolio.com/posts",
           "code": "https://github.com/techtaley/search-app",
           "api": "https://github.com/techtaley/search-app",
           "status": "Ongoing",
@@ -86,46 +86,11 @@
           "alt": "FE React Deployment",
           "title": "Tech Taley Portfolio",
           "desc": "React App | REST API deployed to GitHub Pages",
-          "link": "https://tech-taley-portfolio.com",
+          "link": "https://techtaleyportfolio.com/",
           "code": "https://github.com/techtaley/tech-taley-portfolio",
           "api": "https://techtaley.github.io/tech-taley-api/data.json",
           "status": "Completed",
           "category": "business"
-        },
-        {
-          "id": "6",
-          "image": "https://images.pexels.com/photos/390089/film-movie-motion-picture-390089.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-          "alt": "Movie Search App",
-          "title": "Movie Search",
-          "desc": "React App | external REST API",
-          "link": "https://github.com/techtaley/movie_search/",
-          "code": "https://github.com/techtaley/movie_search",
-          "api": "https://github.com/techtaley/movie_search",
-          "status": "Completed",
-          "category": "search"
-        },
-        {
-          "id": "7",
-          "image": "https://expansivedesigns.com/tech-taley-portfolio/static/images/befound_home.jpg",
-          "title": "Be Found",
-          "desc": "React App | REST API deployment in progress",
-          "link": "https://github.com/techtaley/befound",
-          "code": "https://github.com/techtaley/befound",
-          "api": "https://github.com/techtaley/befound",
-          "status": "Still in progress",
-          "category": "business"
-        },
-        {
-          "id": "8",
-          "image": "https://images.pexels.com/photos/2349209/pexels-photo-2349209.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-          "alt": "Full stack Mern Deployment",
-          "title": "Blog",
-          "desc": "Deployed App & API to Render, and images to AWS3 using Multer3",
-          "link": "https://exdblog.onrender.com/",
-          "code": "https://github.com/techtaley/exdblog",
-          "api": "https://exdblog.onrender.com/api/posts",
-          "status": "Upload images to AWS3 as requested",
-          "category": "blog"
         }
       ],
       "skills": [
@@ -200,16 +165,6 @@
               "title": "NodeJs"
             },
             {
-              "id": 4,
-              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg",
-              "title": "Firebase"
-            },
-            {
-              "id": 5,
-              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg",
-              "title": "GraphQL"
-            },
-            {
               "id": 6,
               "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
               "title": "AWS S3"
@@ -217,7 +172,7 @@
             {
               "id": 7,
               "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
-              "title": "AWS S3"
+              "title": "mysql"
             },
             {
               "id": 8,
@@ -239,11 +194,6 @@
               "id": 1,
               "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg",
               "title": "Jest"
-            },
-            {
-              "id": 2,
-              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg",
-              "title": "Jenkins"
             }
           ]
         },
@@ -260,11 +210,6 @@
               "id": 1,
               "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg",
               "title": "Heroku"
-            },
-            {
-              "id": 2,
-              "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg",
-              "title": "Docker"
             }
           ]
         }
@@ -310,8 +255,7 @@
             {
               "link1": "https://www.facebook.com/expansivedesigns/?ref=hl",
               "link2": "https://www.instagram.com/expansivedesigns/",
-              "link3": "https://twitter.com/expansivedesign",
-              "link4": "YouTube Channel - T3 - Taily Talks Tech"
+              "link3": "https://twitter.com/expansivedesign"
             }
           ]
         }
