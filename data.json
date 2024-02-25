@@ -26,12 +26,12 @@
           "image": "https://techtaleyportfolio.com/assets/expansivedesigns-homepage.jpg",
           "alt": "React Full Stack Application Headless CMS",
           "title": "Expansive Designs Full Stack Application",
-          "desc": "ReactJS, Redux Toolkit, StrAPI CMS, Web Accessiblity, Sass, FlexBox, Vite",
+          "desc": "ReactJS, Redux Toolkit, Web Accessiblity/WGAG Compliant, Sass, FlexBox, Vite",
           "link": "https://expansivedesigns.com",
           "code": "#",
           "api": "#",
           "status": "Completed",
-          "category": ["blog", "wcag"]
+          "category": "blog"
         },
         {
           "id": "1",
