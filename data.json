@@ -26,24 +26,24 @@
           "image": "https://techtaleyportfolio.com/assets/expansivedesigns-homepage.jpg",
           "alt": "React Full Stack Application Headless CMS",
           "title": "Expansive Designs Full Stack Application",
-          "desc": "ReactJS, Redux Toolkit, Web Accessiblity/WGAG Compliant, Sass, FlexBox, Vite",
+          "desc": "ReactJS, Redux Toolkit, Web Accessiblity/WGAG Compliant, Google Search Console, Google Analytics, Sass, FlexBox, Vite",
           "link": "https://expansivedesigns.com",
           "code": "#",
           "api": "#",
           "status": "Completed",
-          "category": "blog"
+          "category": "sern"
         },
         {
           "id": "1",
           "image": "https://techtaleyportfolio.com/assets/my-strapi-shop.jpg",
           "alt": "React Full Stack Application Headless CMS",
-          "title": "eCommerce React Full Stack Headless StrAPI CMS",
+          "title": "Headless StrAPI CMS React Full Stack eCommerce, HTML, CSS, JavaScript, Sass",
           "desc": "ReactJS, Vite, FlexBox, Redux Toolkit, StrAPI CMS, Stripe",
           "link": "https://my-strapi-shop.techtaleyportfolio.com",
           "code": "https://github.com/techtaley/my-strapi-shop",
           "api": "https://my-shop-api.techtaleyportfolio.com/api/products?populate=*",
           "status": "Ongoing",
-          "category": "filter"
+          "category": "sern"
         }, 
         {
           "id": "2",
@@ -55,7 +55,7 @@
           "code": "https://github.com/techtaley/nfp-starter",
           "api": "#",
           "status": "Ongoing",
-          "category": "filter"
+          "category": "sern"
         },                                 
         {
           "id": "3",
@@ -66,7 +66,7 @@
           "code": "https://github.com/Techtaley/bug-tracker.git",
           "api": "#",
           "status": "Ongoing",
-          "category": "search"
+          "category": "mern"
         },
         {
           "id": "4",
@@ -78,7 +78,7 @@
           "code": "https://github.com/techtaley/search-app",
           "api": "https://github.com/techtaley/search-app",
           "status": "Ongoing",
-          "category": "search"
+          "category": "mern"
         },
         {
           "id": "5",
@@ -90,8 +90,92 @@
           "code": "https://github.com/techtaley/tech-taley-portfolio",
           "api": "https://techtaley.github.io/tech-taley-api/data.json",
           "status": "Completed",
-          "category": "filter"
-        }        
+          "category": "sern"
+        },  
+        {
+          "id": "6",
+          "image": "https://expansivedesigns.com/assets/thinkshift-homepage.jpg",
+          "alt": "Front End React project",
+          "title": "ThinkShift Studio, NYC",
+          "desc": "Code customization using Squarespace, HTML5, CSS3, JS, Blog, Events, Analytics",
+          "link": "https://www.thinkshiftstudio.com/",
+          "code": "https://expansivedesigns.com/our-work",
+          "api": "#",
+          "status": "Completed",
+          "category": "htmlcssjs"
+        },
+        {
+          "id": "7",
+          "image": "https://expansivedesigns.com/assets/pmr_screenshots_home.jpg",
+          "alt": "Front End React project",
+          "title": "Prime Manhattan Realty, NYC",
+          "desc": "HTML5, CSS3, JS, Browser, Device, Usability Tests, Google Search Console",
+          "link": "https://www.primemanhattan.com/",
+          "code": "https://expansivedesigns.com/our-work",
+          "api": "#",
+          "status": "Completed",
+          "category": "htmlcssjs"
+        }, 
+        {
+          "id": "8",
+          "image": "https://expansivedesigns.com/assets/bde_screenshot.png",
+          "alt": "Front End React project",
+          "title": "Benignant De Eagle, Inc., MA",
+          "desc": "Squarespacee Code Customization, HTML5, CSS3, JS, SEO, Hosting & Domain, Newsletter Campaigns, Subscribe Form, Event Calendar, SEO, Analytics, Blog, Social Media, Donation",
+          "link": "https://expansivedesigns.com/our-work",
+          "code": "#",
+          "api": "#",
+          "status": "Completed",
+          "category": "htmlcssjs"
+        },
+        {
+          "id": "9",
+          "image": "https://expansivedesigns.com/assets/home_fkhc.jpg",
+          "alt": "Front End React project",
+          "title": "Flamekeepers Hat Club, NYC",
+          "desc": "Shopify Code Customizations, HTML5, CSS3, JS, eCommerce, Payment, Blog, Graphic Design",
+          "link": "https://expansivedesigns.com/our-work",
+          "code": "#",
+          "api": "#",
+          "status": "Completed",
+          "category": "htmlcssjs"
+        },
+        {
+          "id": "10",
+          "image": "https://expansivedesigns.com/assets/jerrygenesis_coverpage.jpg",
+          "alt": "Front End React project",
+          "title": "Genesis Aesthetics - Jerry Genesis, NYC",
+          "desc": "Shopify Code Customizations, HTML5, CSS3, JS, eCommerce, Payment, Blog, Graphic Design",
+          "link": "https://expansivedesigns.com/our-work",
+          "code": "#",
+          "api": "#",
+          "status": "Completed",
+          "category": "htmlcssjs"
+        }, 
+        {
+          "id": "11",
+          "image": "https://expansivedesigns.com/assets/tbw_screenshot_home.jpg",
+          "alt": "Front End React project",
+          "title": "Triplebeam Worldwide, NYC",
+          "desc": "Squarespace CMS Customization, HTML5, CSS3, JS, Masonry Grid, Ajax, Form Validation, Graphic Design, Theme Customization, Audio and Video Integration, eCommerce",
+          "link": "https://expansivedesigns.com/our-work",
+          "code": "#",
+          "api": "#",
+          "status": "Completed",
+          "category": "htmlcssjs"
+        }, 
+        {
+          "id": "12",
+          "image": "https://expansivedesigns.com/assets/levonne inspirations_screenshot_803x450.jpg",
+          "alt": "Front End React project",
+          "title": "Triplebeam Worldwide, NYC",
+          "desc": "Squarespace CMS Customization, HTML5, CSS3, JS, CMS Code Customization & Configurations, Instagram, Contact form, Social Media, Gallery, Events",
+          "link": "https://expansivedesigns.com/our-work",
+          "code": "https://www.levonneinspirations.com/",
+          "api": "#",
+          "status": "Completed",
+          "category": "htmlcssjs"
+        }                                                          
       ],
       "skills": [
         {
