@@ -17,7 +17,7 @@
           "title": "I'm Taley",
           "role": "Full stack web developer",
           "desc": "10+ years experience",
-          "link": "https://www.techtaleyportfolio/#projects"
+          "link": "https://www.techtaleyportfolio.com/#projects"
         }
       ],
       "projects": [
@@ -109,7 +109,7 @@
           "image": "https://expansivedesigns.com/assets/pmr_screenshots_home.jpg",
           "alt": "Front End React project",
           "title": "Prime Manhattan Realty, NYC",
-          "desc": "CMS Customization, HTML5, CSS3, JS, Browser, Device, Usability Tests, Google Search Console",
+          "desc": "Contributed to CMS Customization, HTML5, CSS3, JS, Browser, Device, Usability Tests, Google Search Console",
           "link": "https://www.primemanhattan.com/",
           "code": "https://expansivedesigns.com/our-work",
           "api": "#",
