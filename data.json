@@ -40,7 +40,7 @@
           "title": "My Strapi Shop App",
           "desc": "ReactJs, Headless StrAPI CMS, ExpressJs, NodeJS, eCommerce, Vite, HTML, CSS, JavaScript, MySQL, Sass, FlexBox, Redux Toolkit, Stripe",
           "link": "https://my-strapi-shop.techtaleyportfolio.com",
-          "code": "https://github.com/techtaley/my-strapi-shop",
+          "code": "#",
           "api": "https://my-shop-api.techtaleyportfolio.com/api/products?populate=*",
           "status": "Ongoing",
           "category": "sern"
@@ -52,7 +52,7 @@
           "title": "Not-For-Profit Strapi App",
           "desc": "React Full Stack Headless StrAPI CMS, ExpressJs, NodeJS, Vite, FlexBox, Sass, MySQL, Redux Toolkit StrAPI CMS",
           "link": "https://not-for-profit.techtaleyportfolio.com/",
-          "code": "https://github.com/techtaley/nfp-starter",
+          "code": "#",
           "api": "#",
           "status": "Ongoing",
           "category": "sern"
