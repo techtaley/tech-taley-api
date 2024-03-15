@@ -70,29 +70,6 @@
           "category": "sern"
         },                                 
         {
-          "id": "4",
-          "image": "https://expansivedesigns.com/tech-taley-portfolio/static/images/bug-tracker-thumbnail.jpg",
-          "title": "Bug Tracker App",
-          "desc": "ReactJs, Redux Toolki twith API Services, Mongo DB, ExpressJs, NodeJS",
-          "link": "https://bug-tracker.techtaleyportfolio.com/bug-tracker",
-          "code": "https://github.com/Techtaley/bug-tracker.git",
-          "api": "#",
-          "status": "Ongoing",
-          "category": "mern"
-        },
-        {
-          "id": "5",
-          "image": "https://expansivedesigns.com/tech-taley-portfolio/static/images/search-crud-app.jpg",
-          "alt": "Search Blog App using CRUD operations",
-          "title": "Search CRUD App",
-          "desc": "ReactJs, Redux ToolKit | Lazy Loader, Split Code, Outlet, Load Spinner, Proxy, ExpressJs, NodeJS",
-          "link": "https://search-app.techtaleyportfolio.com/posts",
-          "code": "https://github.com/techtaley/search-app",
-          "api": "https://github.com/techtaley/search-app",
-          "status": "Ongoing",
-          "category": "mern"
-        },
-        {
           "id": "6",
           "image": "https://images.pexels.com/photos/3762927/pexels-photo-3762927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
           "alt": "FE React Deployment",
