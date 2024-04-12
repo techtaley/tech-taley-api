@@ -91,7 +91,7 @@
           "code": "https://expansivedesigns.com/our-work",
           "api": "#",
           "status": "Completed",
-          "category": "FE"
+          "category": ["fe"]
         },
         {
           "id": "6",
@@ -103,7 +103,7 @@
           "code": "https://expansivedesigns.com/our-work",
           "api": "#",
           "status": "Completed",
-          "category": "FE"
+          "category": ["fe"]
         }, 
         {
           "id": "7",
@@ -115,7 +115,7 @@
           "code": "#",
           "api": "#",
           "status": "Completed",
-          "category": "FE"
+          "category": ["fe"]
         },
         {
           "id": "8",
@@ -127,7 +127,7 @@
           "code": "#",
           "api": "#",
           "status": "Completed",
-          "category": "FE"
+          "category": ["fe"]
         },
         {
           "id": "9",
@@ -139,7 +139,7 @@
           "code": "#",
           "api": "#",
           "status": "Completed",
-          "category": "FE"
+          "category": ["fe"]
         }, 
         {
           "id": "10",
@@ -151,7 +151,7 @@
           "code": "#",
           "api": "#",
           "status": "Completed",
-          "category": "FE"
+          "category": ["fe"]
         }, 
         {
           "id": "11",
@@ -163,7 +163,7 @@
           "code": "https://www.levonneinspirations.com/",
           "api": "#",
           "status": "Completed",
-          "category": "FE"
+          "category": ["fe"]
         }                                                          
       ],
       "skills": [
