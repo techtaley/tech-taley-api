@@ -31,7 +31,7 @@
           "code": "#",
           "api": "#",
           "status": "Completed",
-          "category": ["sern", "api"]
+          "category": "sern"
         },
         {
           "id": "1",
@@ -43,7 +43,7 @@
           "code": "#",
           "api": "https://lg-api.techtaleyportfolio.com/api/products?populate=*",
           "status": "In progress",
-          "category": ["sern", "api"]
+          "category": "sern"
         }, 
         {
           "id": "2",
@@ -55,7 +55,7 @@
           "code": "#",
           "api": "#",
           "status": "Ongoing",
-          "category": ["sern", "api"]
+          "category": "sern"
         },                                                 
         {
           "id": "3",
@@ -67,7 +67,7 @@
           "code": "https://github.com/techtaley/search-app",
           "api": "https://github.com/techtaley/search-app",
           "status": "Ongoing",
-          "category": ["mern", "api"]
+          "category": "mern"
         },
         {
           "id": "4",
@@ -79,7 +79,7 @@
           "code": "https://github.com/techtaley/tech-taley-portfolio",
           "api": "https://techtaley.github.io/tech-taley-api/data.json",
           "status": "Completed",
-          "category": ["sern", "api"]
+          "category": "sern"
         },  
         {
           "id": "5",
@@ -91,7 +91,7 @@
           "code": "https://expansivedesigns.com/our-work",
           "api": "#",
           "status": "Completed",
-          "category": ["fe"]
+          "category": "fe"
         },
         {
           "id": "6",
@@ -103,7 +103,7 @@
           "code": "https://expansivedesigns.com/our-work",
           "api": "#",
           "status": "Completed",
-          "category": ["fe"]
+          "category": "fe"
         }, 
         {
           "id": "7",
@@ -115,7 +115,7 @@
           "code": "#",
           "api": "#",
           "status": "Completed",
-          "category": ["fe"]
+          "category": "fe"
         },
         {
           "id": "8",
@@ -127,7 +127,7 @@
           "code": "#",
           "api": "#",
           "status": "Completed",
-          "category": ["fe"]
+          "category": "fe"
         },
         {
           "id": "9",
@@ -139,7 +139,7 @@
           "code": "#",
           "api": "#",
           "status": "Completed",
-          "category": ["fe"]
+          "category": "fe"
         }, 
         {
           "id": "10",
@@ -151,7 +151,7 @@
           "code": "#",
           "api": "#",
           "status": "Completed",
-          "category": ["fe"]
+          "category": "fe"
         }, 
         {
           "id": "11",
@@ -163,7 +163,7 @@
           "code": "https://www.levonneinspirations.com/",
           "api": "#",
           "status": "Completed",
-          "category": ["fe"]
+          "category": "fe"
         }                                                          
       ],
       "skills": [
