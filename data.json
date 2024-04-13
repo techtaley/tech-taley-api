@@ -36,7 +36,7 @@
         {
           "id": "1",
           "image": "https://techtaleyportfolio.com/assets/legendarygemstone-homepage.jpg",
-          "alt": "React Full Stack Application Headless CMS",
+          "alt": "React Full Stack Application",
           "title": "Legendary Gemstone SERN App",
           "desc": "ReactJs, Strapi, ExpressJs, NodeJS, eCommerce, Rest API, HTML5, CSS3, GitHub, ES6+, MySQL, Sass, FlexBox, RTK, Stripe",
           "link": "https://lg-shop.techtaleyportfolio.com",
@@ -48,7 +48,7 @@
         {
           "id": "2",
           "image": "https://techtaleyportfolio.com/assets/not-for-profit.jpg",
-          "alt": "React Full Stack Application Headless CMS",
+          "alt": "React Full Stack Application",
           "title": "Not-For-Profit Custom Built Template",
           "desc": "ReactJs, Strapi, ExpressJs, NodeJS, HTML5, CSS3, FlexBox, Sass, MySQL, Rest API, Redux, Strapi, GitHub",
           "link": "https://not-for-profit.techtaleyportfolio.com/",
@@ -158,7 +158,7 @@
           "image": "https://expansivedesigns.com/assets/levonne inspirations_screenshot_803x450.jpg",
           "alt": "Front End React project",
           "title": "Triplebeam Worldwide, NYC",
-          "desc": "HTML5, CSS3, JS, CMS Code Customization & Configurations, Instagram, Contact form, Social Media, Gallery, Events",
+          "desc": "HTML5, CSS3, JS, Instagram, Contact form, Social Media, Gallery, Events",
           "link": "https://expansivedesigns.com/our-work",
           "code": "https://www.levonneinspirations.com/",
           "api": "#",
