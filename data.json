@@ -51,6 +51,32 @@
           "id": 2,
           "image": "https://techtaleyportfolio.com/assets/not-for-profit.jpg",
           "alt": "React Full Stack Application",
+          "title": "Not-For-Profit Custom Built Template (in progress)",
+          "desc": "ReactJs, Strapi, ExpressJs, NodeJS, HTML5, CSS3, FlexBox, Sass, MySQL, Rest API, Redux, Strapi, GitHub",
+          "link": "https://not-for-profit.techtaleyportfolio.com/",
+          "code": "#",
+          "api": "#",
+          "role": "Project Lead",
+          "status": "Ongoing",
+          "category": "sern"
+        },  
+        {
+          "id": 2,
+          "image": "https://techtaleyportfolio.com/assets/spa-ds1-coachme.jpg",
+          "alt": "CoachMe Wellness Template",
+          "title": "CoachMe Wellness Services",
+          "desc": "ReactJs, Strapi, ExpressJs, NodeJS, HTML5, CSS3, FlexBox, Sass, MySQL, Rest API, Redux, Strapi, GitHub",
+          "link": "https://spa-ds1-coachme.techtaleyportfolio.com/",
+          "code": "#",
+          "api": "#",
+          "role": "Project Lead",
+          "status": "Ongoing",
+          "category": "sern"
+        },  
+        {
+          "id": 2,
+          "image": "https://spa-ds4-lessons.techtaleyportfolio.com/assets/spa-ds4-lessons.jpg",
+          "alt": "React Full Stack Application",
           "title": "Not-For-Profit Custom Built Template",
           "desc": "ReactJs, Strapi, ExpressJs, NodeJS, HTML5, CSS3, FlexBox, Sass, MySQL, Rest API, Redux, Strapi, GitHub",
           "link": "https://not-for-profit.techtaleyportfolio.com/",
@@ -59,7 +85,7 @@
           "role": "Project Lead",
           "status": "Ongoing",
           "category": "sern"
-        },                                                 
+        },                                             
         {
           "id": 3,
           "image": "https://expansivedesigns.com/tech-taley-portfolio/static/images/search-crud-app.jpg",
@@ -170,6 +196,26 @@
           "status": "Completed",
           "category": "fe"
         }                                                          
+      ],
+      "spa": [
+          {
+            "id": "0",
+            "image": "http://techtaleyportfolio.com/assets/spa-ds1-coachme.jpg",
+            "title": "CoachMe Wellness Services",
+            "desc": "HTML5, CSS3, FlexBox, Sass, Excalidraw, Rest API, Redux, GitHub, ReactJs, ExpressJs, NodeJS",
+            "role": "Project lead",
+            "link": "https://spa-ds1-coachme.techtaleyportfolio.com",
+            "alt": "CoachMe Wellness Services photo"
+          },
+          {
+            "id": "1",
+            "image": "http://techtaleyportfolio.com/assets/spa-ds4-lessons.jpg",
+            "title": "Piano4U Lessons",
+            "desc": "HTML5, CSS3, FlexBox, Sass, Excalidraw, Rest API, Redux, GitHub, ReactJs, ExpressJs, NodeJS",
+            "role": "Project lead",      
+            "link": "https://spa-ds4-piano4u.techtaleyportfolio.com",
+            "alt": "Piano4U Lessons photo"
+          }                         
       ],
       "skills": [
         {
