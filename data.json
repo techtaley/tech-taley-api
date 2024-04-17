@@ -22,7 +22,7 @@
       ],
       "projects": [
         {
-          "id": "0",
+          "id": 0,
           "image": "https://techtaleyportfolio.com/assets/expansivedesigns-homepage.jpg",
           "alt": "React Full Stack Application Strapi Headless CMS",
           "title": "Expansive Designs Strapi App",
@@ -35,7 +35,7 @@
           "category": "sern"
         },
         {
-          "id": "1",
+          "id": 1,
           "image": "https://techtaleyportfolio.com/assets/legendarygemstone-homepage.jpg",
           "alt": "React Full Stack Application",
           "title": "Legendary Gemstone SERN App",
@@ -48,7 +48,7 @@
           "category": "sern"
         }, 
         {
-          "id": "2",
+          "id": 2,
           "image": "https://techtaleyportfolio.com/assets/not-for-profit.jpg",
           "alt": "React Full Stack Application",
           "title": "Not-For-Profit Custom Built Template",
@@ -61,7 +61,7 @@
           "category": "sern"
         },                                                 
         {
-          "id": "3",
+          "id": 3,
           "image": "https://expansivedesigns.com/tech-taley-portfolio/static/images/search-crud-app.jpg",
           "alt": "Search Blog App using CRUD operations",
           "title": "Search CRUD App",
@@ -74,7 +74,7 @@
           "category": "mern"
         },
         {
-          "id": "4",
+          "id": 4,
           "image": "https://images.pexels.com/photos/3762927/pexels-photo-3762927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
           "alt": "FE React Deployment",
           "title": "Tech Taley Portfolio",
@@ -87,7 +87,7 @@
           "category": "sern"
         },  
         {
-          "id": "5",
+          "id": 5,
           "image": "https://expansivedesigns.com/assets/thinkshift-homepage.jpg",
           "alt": "Front End React project",
           "title": "ThinkShift Studio, NYC",
@@ -99,7 +99,7 @@
           "category": "fe"
         },
         {
-          "id": "6",
+          "id": 6,
           "image": "https://expansivedesigns.com/assets/pmr_screenshots_home.jpg",
           "alt": "Front End React project",
           "title": "Prime Manhattan Realty, NYC",
@@ -111,7 +111,7 @@
           "category": "fe"
         }, 
         {
-          "id": "7",
+          "id": 7,
           "image": "https://expansivedesigns.com/assets/bde_screenshot.png",
           "alt": "Front End React project",
           "title": "Benignant De Eagle, Inc., MA",
@@ -123,7 +123,7 @@
           "category": "fe"
         },
         {
-          "id": "8",
+          "id": 8,
           "image": "https://expansivedesigns.com/assets/home_fkhc.jpg",
           "alt": "Front End React project",
           "title": "Flamekeepers Hat Club, NYC",
@@ -135,7 +135,7 @@
           "category": "fe"
         },
         {
-          "id": "9",
+          "id": 9,
           "image": "https://expansivedesigns.com/assets/jerrygenesis_coverpage.jpg",
           "alt": "Front End React project",
           "title": "Genesis Aesthetics - Jerry Genesis, NYC",
@@ -147,7 +147,7 @@
           "category": "fe"
         }, 
         {
-          "id": "10",
+          "id": 10,
           "image": "https://expansivedesigns.com/assets/tbw_screenshot_home.jpg",
           "alt": "Front End React project",
           "title": "Triplebeam Worldwide, NYC",
@@ -159,7 +159,7 @@
           "category": "fe"
         }, 
         {
-          "id": "11",
+          "id": 11,
           "image": "https://expansivedesigns.com/assets/levonne inspirations_screenshot_803x450.jpg",
           "alt": "Front End React project",
           "title": "Triplebeam Worldwide, NYC",
