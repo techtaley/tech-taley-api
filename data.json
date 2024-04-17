@@ -189,33 +189,7 @@
             "role": "Project lead",      
             "link": "https://spa-ds4-piano4u.techtaleyportfolio.com",
             "alt": "Piano4U Lessons photo"
-          },
-        {
-          "id": "2",
-          "image": "https://techtaleyportfolio.com/assets/spa-ds1-coachme.jpg",
-          "alt": "CoachMe Wellness Template",
-          "title": "CoachMe Wellness Services",
-          "desc": "ReactJs, Strapi, ExpressJs, NodeJS, HTML5, CSS3, FlexBox, Sass, MySQL, Rest API, Redux, Strapi, GitHub",
-          "link": "https://spa-ds1-coachme.techtaleyportfolio.com/",
-          "code": "#",
-          "api": "#",
-          "role": "Project Lead",
-          "status": "Ongoing",
-          "category": "sern"
-        },  
-        {
-          "id": "2",
-          "image": "https://spa-ds4-lessons.techtaleyportfolio.com/assets/spa-ds4-lessons.jpg",
-          "alt": "React Full Stack Application",
-          "title": "Not-For-Profit Custom Built Template",
-          "desc": "ReactJs, Strapi, ExpressJs, NodeJS, HTML5, CSS3, FlexBox, Sass, MySQL, Rest API, Redux, Strapi, GitHub",
-          "link": "https://not-for-profit.techtaleyportfolio.com/",
-          "code": "#",
-          "api": "#",
-          "role": "Project Lead",
-          "status": "Ongoing",
-          "category": "sern"
-        }                                   
+          }                            
       ],
       "slider": [
           {
