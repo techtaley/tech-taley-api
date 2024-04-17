@@ -22,7 +22,7 @@
       ],
       "projects": [
         {
-          "id": 0,
+          "id": "0",
           "image": "https://techtaleyportfolio.com/assets/expansivedesigns-homepage.jpg",
           "alt": "React Full Stack Application Strapi Headless CMS",
           "title": "Expansive Designs Strapi App",
@@ -35,7 +35,7 @@
           "category": "sern"
         },
         {
-          "id": 1,
+          "id": "1",
           "image": "https://techtaleyportfolio.com/assets/legendarygemstone-homepage.jpg",
           "alt": "React Full Stack Application",
           "title": "Legendary Gemstone SERN App",
@@ -48,7 +48,7 @@
           "category": "sern"
         }, 
         {
-          "id": 2,
+          "id": "2",
           "image": "https://techtaleyportfolio.com/assets/not-for-profit.jpg",
           "alt": "React Full Stack Application",
           "title": "Not-For-Profit Custom Built Template (in progress)",
@@ -59,35 +59,9 @@
           "role": "Project Lead",
           "status": "Ongoing",
           "category": "sern"
-        },  
+        },                                               
         {
-          "id": 2,
-          "image": "https://techtaleyportfolio.com/assets/spa-ds1-coachme.jpg",
-          "alt": "CoachMe Wellness Template",
-          "title": "CoachMe Wellness Services",
-          "desc": "ReactJs, Strapi, ExpressJs, NodeJS, HTML5, CSS3, FlexBox, Sass, MySQL, Rest API, Redux, Strapi, GitHub",
-          "link": "https://spa-ds1-coachme.techtaleyportfolio.com/",
-          "code": "#",
-          "api": "#",
-          "role": "Project Lead",
-          "status": "Ongoing",
-          "category": "sern"
-        },  
-        {
-          "id": 2,
-          "image": "https://spa-ds4-lessons.techtaleyportfolio.com/assets/spa-ds4-lessons.jpg",
-          "alt": "React Full Stack Application",
-          "title": "Not-For-Profit Custom Built Template",
-          "desc": "ReactJs, Strapi, ExpressJs, NodeJS, HTML5, CSS3, FlexBox, Sass, MySQL, Rest API, Redux, Strapi, GitHub",
-          "link": "https://not-for-profit.techtaleyportfolio.com/",
-          "code": "#",
-          "api": "#",
-          "role": "Project Lead",
-          "status": "Ongoing",
-          "category": "sern"
-        },                                             
-        {
-          "id": 3,
+          "id": "3",
           "image": "https://expansivedesigns.com/tech-taley-portfolio/static/images/search-crud-app.jpg",
           "alt": "Search Blog App using CRUD operations",
           "title": "Search CRUD App",
@@ -100,7 +74,7 @@
           "category": "mern"
         },
         {
-          "id": 4,
+          "id": "4",
           "image": "https://images.pexels.com/photos/3762927/pexels-photo-3762927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
           "alt": "FE React Deployment",
           "title": "Tech Taley Portfolio",
@@ -113,7 +87,7 @@
           "category": "sern"
         },  
         {
-          "id": 5,
+          "id": "5",
           "image": "https://expansivedesigns.com/assets/thinkshift-homepage.jpg",
           "alt": "Front End React project",
           "title": "ThinkShift Studio, NYC",
@@ -125,7 +99,7 @@
           "category": "fe"
         },
         {
-          "id": 6,
+          "id": "6",
           "image": "https://expansivedesigns.com/assets/pmr_screenshots_home.jpg",
           "alt": "Front End React project",
           "title": "Prime Manhattan Realty, NYC",
@@ -137,7 +111,7 @@
           "category": "fe"
         }, 
         {
-          "id": 7,
+          "id": "7",
           "image": "https://expansivedesigns.com/assets/bde_screenshot.png",
           "alt": "Front End React project",
           "title": "Benignant De Eagle, Inc., MA",
@@ -149,7 +123,7 @@
           "category": "fe"
         },
         {
-          "id": 8,
+          "id": "8",
           "image": "https://expansivedesigns.com/assets/home_fkhc.jpg",
           "alt": "Front End React project",
           "title": "Flamekeepers Hat Club, NYC",
@@ -161,7 +135,7 @@
           "category": "fe"
         },
         {
-          "id": 9,
+          "id": "9",
           "image": "https://expansivedesigns.com/assets/jerrygenesis_coverpage.jpg",
           "alt": "Front End React project",
           "title": "Genesis Aesthetics - Jerry Genesis, NYC",
@@ -173,7 +147,7 @@
           "category": "fe"
         }, 
         {
-          "id": 10,
+          "id": "10",
           "image": "https://expansivedesigns.com/assets/tbw_screenshot_home.jpg",
           "alt": "Front End React project",
           "title": "Triplebeam Worldwide, NYC",
@@ -185,7 +159,7 @@
           "category": "fe"
         }, 
         {
-          "id": 11,
+          "id": "11",
           "image": "https://expansivedesigns.com/assets/levonne inspirations_screenshot_803x450.jpg",
           "alt": "Front End React project",
           "title": "Triplebeam Worldwide, NYC",
@@ -215,7 +189,194 @@
             "role": "Project lead",      
             "link": "https://spa-ds4-piano4u.techtaleyportfolio.com",
             "alt": "Piano4U Lessons photo"
-          }                         
+          },
+        {
+          "id": "2",
+          "image": "https://techtaleyportfolio.com/assets/spa-ds1-coachme.jpg",
+          "alt": "CoachMe Wellness Template",
+          "title": "CoachMe Wellness Services",
+          "desc": "ReactJs, Strapi, ExpressJs, NodeJS, HTML5, CSS3, FlexBox, Sass, MySQL, Rest API, Redux, Strapi, GitHub",
+          "link": "https://spa-ds1-coachme.techtaleyportfolio.com/",
+          "code": "#",
+          "api": "#",
+          "role": "Project Lead",
+          "status": "Ongoing",
+          "category": "sern"
+        },  
+        {
+          "id": "2",
+          "image": "https://spa-ds4-lessons.techtaleyportfolio.com/assets/spa-ds4-lessons.jpg",
+          "alt": "React Full Stack Application",
+          "title": "Not-For-Profit Custom Built Template",
+          "desc": "ReactJs, Strapi, ExpressJs, NodeJS, HTML5, CSS3, FlexBox, Sass, MySQL, Rest API, Redux, Strapi, GitHub",
+          "link": "https://not-for-profit.techtaleyportfolio.com/",
+          "code": "#",
+          "api": "#",
+          "role": "Project Lead",
+          "status": "Ongoing",
+          "category": "sern"
+        }                                   
+      ],
+      "slider": [
+          {
+              "id": "1",
+              "img": "clientl_3t.jpg",
+              "alt": "photo of work done for Triplebeam LLC",
+              "testimonial": "",
+              "org": "",
+              "loc":  "",
+              "aria": ""
+          },
+          {
+          "id": "2",
+          "img": "clientl_li.jpg",
+          "alt": "photo of work done for Le'Vonne Inspirations",
+          "testimonial": "What a great company!  Professional and very informative. There are so many website companies, with all the research I did I am so happy that I used Expansive Designs to create my website. They helped me create something that was tailored to exactly what I wanted to create and help me decide on the best marketing style for my company. The price is so very reasonable. I highly recommend using this company. ",
+          "stakeholder": "Shivon C., CEO",
+          "org": "Le'Vonne Inspirations",
+          "loc": "New York City, NY",
+          "aria": ""
+        },
+        {
+          "id": "3",
+          "img": "clientl_ai.jpg",
+          "alt": "photo of work done for Azura International",
+          "testimonial": "",
+          "stakeholder": "",
+          "org": "",
+          "loc": "",
+          "aria": ""
+        },
+        {
+          "id": "4",
+          "img": "clientl_bde.jpg",
+          "alt": "photo of work done for Benignant D. Eagle",
+          "testimonial": "Thanks for your great job...  you really have full knowledge of BDE. . .  You will always be part of us and be part of us going global.  I appreciate you for taking your time to do this, it is really awesome work. ",
+          "stakeholder": "Onyema B. Ajuogu, President & Founder",
+          "org": "Benignant De Eagle, Inc.",
+          "loc": "",
+          "aria": ""
+        },
+        {
+          "id": "5",
+          "img": "clientl_ekd.jpg",
+          "alt": "photo of work done for EKDNYC",
+          "testimonial": "TaLoveous is easy to work with, is on top of the project and always offering solutions for current and future design challenges. So, I look forward to working with her in the future. ",
+          "stakeholder": "Eric K. Daniels, ",
+          "org": "Eric K. Daniels, Architect PC, New York",
+          "loc": "New York City, NY",
+          "aria": "testimonial from Erick K. Daniels"
+        },
+        {
+          "id": "6",
+          "img": "clientl_fkhc.jpg",
+          "alt": "photo of work done for Flamekeeper's Hat Club",
+          "testimonial": "TaLoveous is AWESOME to work with.  She always responds in a timely manner and always explores every option until she finds cost effective, time saving solutions to any problem. I highly recommend Expansive Designs.",
+          "stakeholder": "Marc Will, Owner",
+          "org": "Flamekeepers Hat Club",
+          "loc": "New York City, NY",
+          "aria": "testimonial from Flamekeeper's Hat Club"        
+        },
+        {
+          "id": "7",
+          "img": "clientl_hvd.jpg",
+          "alt": "photo of work done for The HVAC Doc",
+          "testimonial": "I was looking for a simple way just to get my name out there. This website exceeded my expectations.  I allows my clients to get a full picture of what I do but also allows me to get important information about their needs so that I am ready to deliver the service they need.",
+          "stakeholder":  "James F. G.",
+          "org": "The HVAC Doc",
+          "loc": "New York City, NY",
+          "aria": "testimonial from The HVAC Doc"
+        },     
+        {
+          "id": "8",
+          "img": "clientl_lgem.jpg",
+          "alt": "photo of work done for Legendary Gemstone LLC",
+          "testimonial": "I feel that I'm more connected with my clients and can build a relationship with them.  There are links to my social media and educational videos so that I can get my name out there and promote my product through various mediums.  The very eye-catching logo pops and has vibrant colors that will definitely attract natural stone lovers.",
+          "stakeholder":  "",
+          "org": "Legendary Gemstone",
+          "loc": "New York City, NY",
+          "aria": "testimonial from Legendary Gemstone LLC"
+        },
+        {
+          "id": "9",
+          "img": "clientl_pmr.jpg",
+          "alt": "photo of work done for Prime Manhattan Realty",
+          "testimonial": "Expansive Designs provided my company with outstanding forward thinking work - TaLoveous' attention to detail and commitment to quality stands heads above what most programmers do today - she went above and beyond and for that we highly recommend Expansive Designs for your coding and web needs! Outside of her work TaLoveous is a warm and kind person who's a delight to work with - her professionalism and tenacity helped to bring our projects to fruition well within schedule!  ",
+          "stakeholder": "Rey Marrero, Tech Lead & Marketing Mgr",
+          "org": "Prime Manhattan Realty",
+          "loc": "New York City, NY",
+          "aria": "testimonial from Prime Manhattan Realty"
+        },
+        {
+          "id": "10",
+          "img": "clientl_sch.jpg",
+          "alt": "photo of work done for Source Coder Hub",
+          "testimonial": "",
+          "stakeholder": "",
+          "org": "Source Coder Hub, New York",
+          "loc": "",
+          "aria": ""         
+        },
+        {
+          "id": "11",
+          "img": "clientl_ts.jpg",
+          "alt": "photo of work done for ThinkShift",
+          "testimonial": "Expansive Designs was responsive to our needs, provided valuable feedback to our questions and comments, and had a quick turnaround time.",
+          "stakeholder": "Eric K. Daniels",
+          "org": "ThinkShift - Eric K. Daniels, Architect PC",
+          "loc": "New York City, NY",
+          "aria": "testimonial from ThinkShift"
+        },
+        {
+          "id": "12",
+          "img": "clientl_vbv.jpg",
+          "alt": "photo of work done for Vibrant by Valeria",
+          "testimonial": "",
+          "stakeholder": "",
+          "org": "",
+          "loc": "",
+          "aria": ""         
+        },
+        {
+          "id": "13",
+          "img": "clientl_mta.jpg",
+          "alt": "photo of work done for Monad Trainer's Aide, LLC",
+          "testimonial": "I was very pleased with her work. Even if I disagreed with her recommendations, we were able to cooperatively find acceptable or better solutions. She gives great value for the fees she charges.",
+          "stakeholder":  "Gene Richman, President",
+          "org": "Monad Trainers Aide, NYC",
+          "loc": "New York City, NY",
+          "aria": "testimonial from Monad Trainer's Aide, LLC"
+        },
+        {
+          "id": "14",
+          "img": "clientl_jg.jpg",
+          "alt": "photo of work done for Genesis Aesthetics",
+          "testimonial": "I was very pleased with her work. Even if I disagreed with her recommendations, we were able to cooperatively find acceptable or better solutions. She gives great value for the fees she charges.",
+          "stakeholder": "Jerry Genesis, Owner",
+          "org": "Genesis Aesthetics - Jerry Genesis",
+          "loc": "New York City, NY",
+          "aria": "From the very beginning my experience was great. We were constantly in contact for every step along the way of building an amazing site. Anything I didn't understand was explained in detail and always resolved immediately. I've used other web designers in the past and issues take a long time, sometimes never get done and you can never contact them if you have any trouble. This experience was 100% the opposite whereby I would get an email explaining everything right away and if that didn't work I received a personal phone call. I highly recommend all of the offered services and you won't go wrong."
+        },
+        {
+          "id": "15",
+          "img": "clientl_yybf.jpg",
+          "alt": "photo of work done for Yum Yum Baby Feeder",
+          "testimonial": "",
+          "stakeholder": "",
+          "org": "Yum Yum Baby Feeder, NYC",
+          "loc": "New York City, NY",
+          "aria": ""
+        },
+        {
+          "id": "16",
+          "img": "clientl_lts.jpg",
+          "alt": "photo of work done for Liberty Tax School",
+          "testimonial": "",
+          "stakeholder": "",
+          "org": "Liberty Tax School",
+          "loc": "New York City, NY",
+          "aria": ""
+        }                  
       ],
       "skills": [
         {
