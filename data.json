@@ -176,7 +176,7 @@
             "id": "0",
             "image": "http://techtaleyportfolio.com/assets/spa-ds1-coachme.jpg",
             "title": "CoachMe Wellness Services",
-            "desc": "HTML5, CSS3, FlexBox, Sass, Excalidraw, Rest API, Redux, GitHub, ReactJs, ExpressJs, NodeJS",
+            "desc": "HTML5, CSS3, FlexBox, Sass, Feeds, Google, Instagram & YouTube Data API, Redux, GitHub, ReactJs, ExpressJs, NodeJS, NPM",
             "role": "Project lead",
             "link": "https://spa-ds1-coachme.techtaleyportfolio.com",
             "alt": "CoachMe Wellness Services photo"
@@ -185,9 +185,9 @@
             "id": "1",
             "image": "http://techtaleyportfolio.com/assets/spa-ds4-lessons.jpg",
             "title": "Piano4U Lessons",
-            "desc": "HTML5, CSS3, FlexBox, Sass, Excalidraw, Rest API, Redux, GitHub, ReactJs, ExpressJs, NodeJS",
+            "desc": "Feeds, Google, Instagram & YouTube Data API, HTML5, CSS3, FlexBox, NPM, Sass, Excalidraw, Rest API, Redux, GitHub, ReactJs, ExpressJs, NodeJS",
             "role": "Project lead",      
-            "link": "https://spa-ds4-piano4u.techtaleyportfolio.com",
+            "link": "https://spa-ds4-lessons.techtaleyportfolio.com",
             "alt": "Piano4U Lessons photo"
           }                            
       ],
