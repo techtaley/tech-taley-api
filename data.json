@@ -194,7 +194,7 @@
       "slider": [
           {
               "id": "1",
-              "img": "clientl_3t.jpg",
+              "img": "https://expansivedesigns.com/assets/clientl_3t.jpg",
               "alt": "photo of work done for Triplebeam LLC",
               "testimonial": "",
               "org": "",
@@ -203,7 +203,7 @@
           },
           {
           "id": "2",
-          "img": "clientl_li.jpg",
+          "img": "https://expansivedesigns.com/assets/clientl_li.jpg",
           "alt": "photo of work done for Le'Vonne Inspirations",
           "testimonial": "What a great company!  Professional and very informative. There are so many website companies, with all the research I did I am so happy that I used Expansive Designs to create my website. They helped me create something that was tailored to exactly what I wanted to create and help me decide on the best marketing style for my company. The price is so very reasonable. I highly recommend using this company. ",
           "stakeholder": "Shivon C., CEO",
@@ -213,7 +213,7 @@
         },
         {
           "id": "3",
-          "img": "clientl_ai.jpg",
+          "img": "https://expansivedesigns.com/assets/clientl_ai.jpg",
           "alt": "photo of work done for Azura International",
           "testimonial": "",
           "stakeholder": "",
@@ -223,7 +223,7 @@
         },
         {
           "id": "4",
-          "img": "clientl_bde.jpg",
+          "img": "https://expansivedesigns.com/assets/clientl_bde.jpg",
           "alt": "photo of work done for Benignant D. Eagle",
           "testimonial": "Thanks for your great job...  you really have full knowledge of BDE. . .  You will always be part of us and be part of us going global.  I appreciate you for taking your time to do this, it is really awesome work. ",
           "stakeholder": "Onyema B. Ajuogu, President & Founder",
@@ -233,7 +233,7 @@
         },
         {
           "id": "5",
-          "img": "clientl_ekd.jpg",
+          "img": "https://expansivedesigns.com/assets/clientl_ekd.jpg",
           "alt": "photo of work done for EKDNYC",
           "testimonial": "TaLoveous is easy to work with, is on top of the project and always offering solutions for current and future design challenges. So, I look forward to working with her in the future. ",
           "stakeholder": "Eric K. Daniels, ",
@@ -243,7 +243,7 @@
         },
         {
           "id": "6",
-          "img": "clientl_fkhc.jpg",
+          "img": "https://expansivedesigns.com/assets/clientl_fkhc.jpg",
           "alt": "photo of work done for Flamekeeper's Hat Club",
           "testimonial": "TaLoveous is AWESOME to work with.  She always responds in a timely manner and always explores every option until she finds cost effective, time saving solutions to any problem. I highly recommend Expansive Designs.",
           "stakeholder": "Marc Will, Owner",
@@ -253,7 +253,7 @@
         },
         {
           "id": "7",
-          "img": "clientl_hvd.jpg",
+          "img": "https://expansivedesigns.com/assets/clientl_hvd.jpg",
           "alt": "photo of work done for The HVAC Doc",
           "testimonial": "I was looking for a simple way just to get my name out there. This website exceeded my expectations.  I allows my clients to get a full picture of what I do but also allows me to get important information about their needs so that I am ready to deliver the service they need.",
           "stakeholder":  "James F. G.",
@@ -263,7 +263,7 @@
         },     
         {
           "id": "8",
-          "img": "clientl_lgem.jpg",
+          "img": "https://expansivedesigns.com/assets/clientl_lgem.jpg",
           "alt": "photo of work done for Legendary Gemstone LLC",
           "testimonial": "I feel that I'm more connected with my clients and can build a relationship with them.  There are links to my social media and educational videos so that I can get my name out there and promote my product through various mediums.  The very eye-catching logo pops and has vibrant colors that will definitely attract natural stone lovers.",
           "stakeholder":  "",
@@ -273,7 +273,7 @@
         },
         {
           "id": "9",
-          "img": "clientl_pmr.jpg",
+          "img": "https://expansivedesigns.com/assets/clientl_pmr.jpg",
           "alt": "photo of work done for Prime Manhattan Realty",
           "testimonial": "Expansive Designs provided my company with outstanding forward thinking work - TaLoveous' attention to detail and commitment to quality stands heads above what most programmers do today - she went above and beyond and for that we highly recommend Expansive Designs for your coding and web needs! Outside of her work TaLoveous is a warm and kind person who's a delight to work with - her professionalism and tenacity helped to bring our projects to fruition well within schedule!  ",
           "stakeholder": "Rey Marrero, Tech Lead & Marketing Mgr",
@@ -283,7 +283,7 @@
         },
         {
           "id": "10",
-          "img": "clientl_sch.jpg",
+          "img": "https://expansivedesigns.com/assets/clientl_sch.jpg",
           "alt": "photo of work done for Source Coder Hub",
           "testimonial": "",
           "stakeholder": "",
@@ -293,7 +293,7 @@
         },
         {
           "id": "11",
-          "img": "clientl_ts.jpg",
+          "img": "https://expansivedesigns.com/assets/clientl_ts.jpg",
           "alt": "photo of work done for ThinkShift",
           "testimonial": "Expansive Designs was responsive to our needs, provided valuable feedback to our questions and comments, and had a quick turnaround time.",
           "stakeholder": "Eric K. Daniels",
@@ -303,7 +303,7 @@
         },
         {
           "id": "12",
-          "img": "clientl_vbv.jpg",
+          "img": "https://expansivedesigns.com/assets/clientl_vbv.jpg",
           "alt": "photo of work done for Vibrant by Valeria",
           "testimonial": "",
           "stakeholder": "",
@@ -313,7 +313,7 @@
         },
         {
           "id": "13",
-          "img": "clientl_mta.jpg",
+          "img": "https://expansivedesigns.com/assets/clientl_mta.jpg",
           "alt": "photo of work done for Monad Trainer's Aide, LLC",
           "testimonial": "I was very pleased with her work. Even if I disagreed with her recommendations, we were able to cooperatively find acceptable or better solutions. She gives great value for the fees she charges.",
           "stakeholder":  "Gene Richman, President",
@@ -323,7 +323,7 @@
         },
         {
           "id": "14",
-          "img": "clientl_jg.jpg",
+          "img": "https://expansivedesigns.com/assets/clientl_jg.jpg",
           "alt": "photo of work done for Genesis Aesthetics",
           "testimonial": "I was very pleased with her work. Even if I disagreed with her recommendations, we were able to cooperatively find acceptable or better solutions. She gives great value for the fees she charges.",
           "stakeholder": "Jerry Genesis, Owner",
@@ -333,7 +333,7 @@
         },
         {
           "id": "15",
-          "img": "clientl_yybf.jpg",
+          "img": "https://expansivedesigns.com/assets/clientl_yybf.jpg",
           "alt": "photo of work done for Yum Yum Baby Feeder",
           "testimonial": "",
           "stakeholder": "",
@@ -343,7 +343,7 @@
         },
         {
           "id": "16",
-          "img": "clientl_lts.jpg",
+          "img": "https://expansivedesigns.com/assets/clientl_lts.jpg",
           "alt": "photo of work done for Liberty Tax School",
           "testimonial": "",
           "stakeholder": "",
