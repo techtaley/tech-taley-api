@@ -179,7 +179,7 @@
             "id": "0",
             "image": "http://techtaleyportfolio.com/assets/spa-ds1-coachme.jpg",
             "title": "CoachMe Wellness Services",
-            "desc": "My tech stack plus conditional rendering, modals, Chat service using Setmore, Stripe integration, React social share library",
+            "desc": "My tech stack plus conditional rendering, calendar integration, payment integration, React social share library",
             "desc1": "HTML5, CSS3, FlexBox, Sass, Feeds, Google, Instagram & YouTube Data API, Redux, GitHub, ReactJs, ExpressJs, NodeJS, NPM",
             "role": "Project lead",
             "link": "https://spa-ds1-coachme.techtaleyportfolio.com",
