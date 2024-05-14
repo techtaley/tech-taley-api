@@ -1,13 +1,11 @@
 {
     "results": {
       "id": 0,
-      "menus": [
-        {
-          "intro": "intro",
-          "skills": "skills",
-          "projects": "projects",  
-          "contact": "contact"
-        }
+      "menus": [        
+          "intro",
+          "skills",
+          "projects",  
+          "contact"        
       ],
       "banner": [
         {
@@ -26,7 +24,7 @@
           "image": "https://techtaleyportfolio.com/assets/expansivedesigns-homepage.jpg",
           "alt": "React Full Stack Application Strapi Headless CMS",
           "title": "Expansive Designs App",
-          "desc": "React's Reveal's animation library, Chat service using Setmore, Rest API endpoints and headless CMS using Strapi, WCAG, WAI ARIA Google Search Console, Google Analytics",
+          "desc": "React's Reveal's animation library, Calendar & Chat service using Setmore, Rest API endpoints and headless CMS using Strapi, WCAG, WAI ARIA Google Search Console, Google Analytics",
           "desc1": "ReactJS, Strapi, ExpressJs, Rest API, NodeJS, Redux Toolkit, WAI, WCAG, GSC, Google Analytics, HTML5, CSS3, Sass",
           "link": "https://expansivedesigns.com",
           "code": "#",
@@ -179,7 +177,7 @@
             "id": "0",
             "image": "http://techtaleyportfolio.com/assets/spa-ds1-coachme.jpg",
             "title": "CoachMe Wellness Services",
-            "desc": "My tech stack plus conditional rendering, calendar integration, payment integration, React social share library",
+            "desc": "My tech stack plus conditional rendering, calendar integration, payment integration, and React Social Share, Helmet, Count Up libraries",
             "desc1": "HTML5, CSS3, FlexBox, Sass, Feeds, Google, Instagram & YouTube Data API, Redux, GitHub, ReactJs, ExpressJs, NodeJS, NPM",
             "role": "Project lead",
             "link": "https://spa-ds1-coachme.techtaleyportfolio.com",
